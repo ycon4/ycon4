@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Machine+learning+and+data+analytics;Web+development+and+UI+design;Turning+messy+data+into+useful+things;Always+learning+something+new)](https://github.com/ycon4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Machine+learning+and+data+analytics;Web+development+and+UI+design;Turning+messy+data+into+useful+insights;Always+learning+something+new)](https://github.com/ycon4)
 
 <a href="https://linkedin.com/in/andreiraagas"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 <a href="mailto:andrei.raagas@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149" alt="Email" /></a>
